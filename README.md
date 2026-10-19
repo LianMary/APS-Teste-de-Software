@@ -58,7 +58,7 @@ Resultado esperado: **20 testes passando** e **100% de cobertura**.
 
 ## Participantes
 
-| Nome | RA | GitHub |
+| Nome | GitHub |
 |---|---|---|
 | Nome do integrante | [@LianMary](https://github.com/LianMary) |
 
